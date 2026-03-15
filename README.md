@@ -1,4 +1,4 @@
-# Hi, I'm Prashant 👋
+# Hi, I'm Prashant 👋🏻
 
 Frontend Developer specializing in React.js, TypeScript, and modern JavaScript.
 
