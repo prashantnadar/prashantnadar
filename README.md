@@ -11,9 +11,9 @@ Tailwind CSS
 REST APIs
 
 ## Projects
-React Dashboard Application
-React E-commerce Store
-Task Manager App
+Portfolio Website
+Task Manager
+Universal App (WIP)
 
 ## Currently Learning
 Advanced React Patterns
