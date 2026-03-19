@@ -20,5 +20,5 @@ Advanced React Patterns
 Performance Optimization
 
 ## Contact
-LinkedIn
-Portfolio
+[LinkedIn]:- (https://linkedin.com/in/parshya2210)
+[Portfolio]:- (https://prashant-portfolio-delta.vercel.app/)
